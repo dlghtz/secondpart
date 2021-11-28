@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    max-width: 1600px;
+}
+
+.title2 {
+    text-transform: uppercase;
+    font-family: lato, sans-serif;
+    padding: 35px 0 0 0;
+}
+
+.part2 {
+    text-align: center;
+}
+
+.icon2 {
+    padding: 118px 0 35px;
+}
+
+.maintext2 {
+    padding: 35px 250px 0 295px;
+}
